@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/agkalia-symbol.svg"
+ },
+ "source_md5": "a6f0b749e469c57123536f215232af8e",
+ "version": "fb8461f4",
+ "tile": "#F4EEE9",
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "237023e5535880085d581f810d8dc284"
+ ],
+ "made": "2026-10-14"
+}
